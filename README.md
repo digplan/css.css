@@ -14,5 +14,8 @@ Center screen fixed element
 Fixed footer element
 Simple fades
 A basic tooltip
+Icons for github, twitter, email, Facebook
+Common text sizes
+Other common uses like left, right, float, etc..
 
 All in a single 1.8kb (before gzip) css file.  It enables a slow connection mobile friendly simple and single file that covered several common web dev needs.
