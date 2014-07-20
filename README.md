@@ -5,7 +5,7 @@ For rapid templating and building of websites
 
 CSS.css allows the rapid building of html pages using easily memorable classes. Included are simple classes for
 
-Text colors    
+Text colors (uses the great colors of http://clrs.cc/)
 Background colors    
 Margins and padding    
 Column widths and heights in eighths of screen    
