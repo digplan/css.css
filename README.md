@@ -8,7 +8,8 @@ CSS.css allows the rapid building of html pages using easily memorable classes. 
 Text colors
 Background colors
 Margins and padding
-Column widths and heights
+Column widths and heights in eighths of screen
+Push column right
 Full page image
 Center screen fixed element
 Fixed footer element
@@ -16,6 +17,7 @@ Simple fades
 A basic tooltip
 Icons for github, twitter, email, Facebook
 Common text sizes
+Roboto and source code fonts
 Other common uses like left, right, float, etc..
 
-All in a single 1.8kb (before gzip) css file.  It enables a slow connection mobile friendly simple and single file that covered several common web dev needs.
+All in a single 1.8kb (before gzip) css file.  It enables a slow connection mobile friendly simple and single file that covers several common needs.
