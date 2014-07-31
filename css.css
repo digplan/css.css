@@ -60,7 +60,6 @@ a:active{color:#ff851b;-webkit-transition:color .3s ease-in-out;transition:color
 .text-left    { text-align:left }
 .text-right   { text-align:right }
 .text-center  { text-align:center }
-.text-justify { text-align:justify }
 .underline    { text-decoration:underline }
 .highlight    { background-color:#ffc }
 .bold         { font-weight:bold }
@@ -83,8 +82,6 @@ a:active{color:#ff851b;-webkit-transition:color .3s ease-in-out;transition:color
 
 .absolute {position:absolute}
 .front {z-index: 100}
-
-.fonty {font-family:"Source Sans Pro",sans-serif} 
 .container {width: 1200px; max-width: 90%} img {max-width: 100%; height: auto}
 
 .one {width:12.5%}
@@ -143,6 +140,13 @@ a:active{color:#ff851b;-webkit-transition:color .3s ease-in-out;transition:color
     left: 50%;
     margin-left: -512px;   /* 50% */
   }
+}
+
+.rounded {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -khtml-border-radius: 10px;
 }
 
 @font-face {
