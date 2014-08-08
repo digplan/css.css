@@ -40,13 +40,6 @@ a:visited{color:#b10dc9}
 a:hover{color:#7fdbff;-webkit-transition:color .3s ease-in-out;transition:color .3s ease-in-out}
 a:active{color:#ff851b;-webkit-transition:color .3s ease-in-out;transition:color .3s ease-in-out}
 
-.email,.facebook,.github,.google,.twitter{background:url(sprites.png) no-repeat}
-.google{background-position:-143px 0;width:64px;height:64px}
-.facebook{background-position:-70px 0;width:64px;height:64px}
-.email{background-position:-287px -2px;width:64px;height:64px}
-.twitter{background-position:0 0;width:64px;height:64px}
-.github{background-position:-213px 0;width:68px;height:66px}
-
 .left   { float:left }
 .right  { float:right }
 .align-left   { float:left; margin: 0 15px 0 0 }
@@ -161,6 +154,7 @@ a:active{color:#ff851b;-webkit-transition:color .3s ease-in-out;transition:color
   font-weight: 400;
   src: local('Source Code Pro'), local('SourceCodePro-Regular'), url(http://themes.googleusercontent.com/static/fonts/sourcecodepro/v4/mrl8jkM18OlOQN8JLgasDxM0YzuT7MdOe03otPbuUS0.woff) format('woff');
 }
+
 .roboto {font-family: "Roboto"}
 .source-code {font-family: 'Source Code Pro'}
 
