@@ -42,20 +42,13 @@ a:active{color:#ff851b;-webkit-transition:color .3s ease-in-out;transition:color
 
 .left   { float:left }
 .right  { float:right }
-.align-left   { float:left; margin: 0 15px 0 0 }
-.align-right  { float:right; margin: 0 0 0 15px }
+
 .clear        { clear:both }
 .center       { margin: 0 auto; text-align:center }
+
 .margins      { margin:15px }
 .padding      { padding:15px }
-.push-right   { margin-right:15px }
 .border       { border:10px solid #eee }
-.text-left    { text-align:left }
-.text-right   { text-align:right }
-.text-center  { text-align:center }
-.underline    { text-decoration:underline }
-.highlight    { background-color:#ffc }
-.bold         { font-weight:bold }
 
 .push-one   { margin-left:12.5% }
 .push-two   { margin-left:25% }
@@ -73,7 +66,6 @@ a:active{color:#ff851b;-webkit-transition:color .3s ease-in-out;transition:color
 .top-six   { margin-top:75% }
 .top-seven   { margin-top:87.5% }
 
-.absolute {position:absolute}
 .front {z-index: 100}
 .container {width: 1200px; max-width: 90%} img {max-width: 100%; height: auto}
 
@@ -148,15 +140,8 @@ a:active{color:#ff851b;-webkit-transition:color .3s ease-in-out;transition:color
   font-weight: 400;
   src: local('Roboto Regular'), local('Roboto-Regular'), url(http://themes.googleusercontent.com/static/fonts/roboto/v10/2UX7WLTfW3W8TclTUvlFyQ.woff) format('woff');
 }
-@font-face {
-  font-family: 'Source Code Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Source Code Pro'), local('SourceCodePro-Regular'), url(http://themes.googleusercontent.com/static/fonts/sourcecodepro/v4/mrl8jkM18OlOQN8JLgasDxM0YzuT7MdOe03otPbuUS0.woff) format('woff');
-}
 
 .roboto {font-family: "Roboto"}
-.source-code {font-family: 'Source Code Pro'}
 
 .tooltip { display:inline; position:relative }
 .tooltip:hover { text-decoration:none }
